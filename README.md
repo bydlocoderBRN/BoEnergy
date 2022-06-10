@@ -6,7 +6,7 @@
 
 - djangorestframework	3.13.1
 - Django	4.0.5	
-- mysqlclient	2.1.0	2.1.0
+- mysqlclient	2.1.0
 
 ## API
 
